@@ -149,12 +149,13 @@ namespace academia_atos_dotnet2
 
             //EXERCICIO 9
             /*
-            float valor, prest1, prest2, entrada;
+            float valor, resto, prest1, prest2, entrada;
             Console.WriteLine("Qual o valor do produto?");
             valor = float.Parse(Console.ReadLine());
+            resto = valor % 3;
             prest1 = valor / 3;
             prest2 = valor / 3;
-            entrada = valor / 3 + 1;
+            entrada = prest1 + resto
 
             Console.WriteLine("O valor de entrada sera: " + entrada + "\nO valor das parcelas sera de: " + prest1);
             */
