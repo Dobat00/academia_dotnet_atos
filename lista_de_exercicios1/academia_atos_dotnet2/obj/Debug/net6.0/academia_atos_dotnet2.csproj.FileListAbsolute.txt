@@ -1,0 +1,15 @@
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\academia_atos_dotnet2.csproj.AssemblyReference.cache
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\academia_atos_dotnet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\academia_atos_dotnet2.AssemblyInfoInputs.cache
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\academia_atos_dotnet2.AssemblyInfo.cs
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\academia_atos_dotnet2.csproj.CoreCompileInputs.cache
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\bin\Debug\net6.0\academia_atos_dotnet2.exe
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\bin\Debug\net6.0\academia_atos_dotnet2.deps.json
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\bin\Debug\net6.0\academia_atos_dotnet2.runtimeconfig.json
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\bin\Debug\net6.0\academia_atos_dotnet2.dll
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\bin\Debug\net6.0\academia_atos_dotnet2.pdb
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\academia_atos_dotnet2.dll
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\refint\academia_atos_dotnet2.dll
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\academia_atos_dotnet2.pdb
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\academia_atos_dotnet2.genruntimeconfig.cache
+C:\Users\Dobat\source\repos\academia_atos_dotnet2\academia_atos_dotnet2\obj\Debug\net6.0\ref\academia_atos_dotnet2.dll

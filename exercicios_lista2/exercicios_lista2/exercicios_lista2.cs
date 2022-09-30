@@ -413,10 +413,139 @@ namespace exercicios_lista2
 
 
             //exercicio 16
+            /*
+            int time1 = 0, time2 = 0;
+            Console.WriteLine("Quantos gols marcou o time da casa?:\n");
+            time1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Quantos gols marcou o time de fora?\n");
+            time2 = int.Parse(Console.ReadLine());
+
+            if(time2 - time1 >= 2)
+            {
+                Console.WriteLine("O time de fora se classificou!");
+            }
+            else
+            {
+                Console.WriteLine("Os times irao se enfretar em um novo jogo");
+            }
+            */
 
 
+            //exercicio 17
+            /*
+            int lado1, lado2, lado3;
+            Console.WriteLine("Qual o valor do lado do triangulo: \n");
+            lado1 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Qual o valor do lado do triangulo: \n");
+            lado2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Qual o valor do lado do triangulo: \n");
+            lado3 = int.Parse(Console.ReadLine());
 
+            if (lado1 <= lado2 + lado3 && lado2 <= lado3 + lado1 && lado3 <= lado2 + lado1)
+            {
+                if (lado1 == lado2 && lado1 == lado3)
+                {
+                    Console.WriteLine("É um triangulo equilatero.");
+                }
+                else if (lado1 != lado2 && lado1 != lado3)
+                {
+                    Console.WriteLine("É um triangulo escaleno.");
+                }
+                else
+                {
+                    Console.WriteLine("É um triangulo isoceles");
+                }
+
+            }
+            else
+            {
+                Console.WriteLine("nao é possivel formar um triangulo!");
+            }
+            */
+
+
+            //ex 18 
+            /*
+            int a, b, c, maior = 0, menor=0 , meio= 0 ;
+            Console.WriteLine("Digite um valor");
+            a = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite um valor");
+            b = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite um valor");
+            c = int.Parse(Console.ReadLine());
+
+            if (a >b && a > c)
+            {
+                maior = a;
+                if (b > c)
+                {
+                    meio = b;
+                    menor = c;
+                }
+                else
+                {
+                    meio = c;
+                    menor = b;
+                }
+            }
+            else if (b > c && b > a)
+            {
+                maior = b;
+                if (a > c)
+                {
+                    meio = a;
+                    menor = c;
+
+                }
+                else
+                {
+                    meio = c;
+                    menor = a;
+                }
+            }
+            else
+            {
+                maior = c;
+                if (a > b)
+                {
+                    meio = a;
+                    menor = b;
+                }
+                else
+                {
+                    meio = b;
+                    menor = a;
+                }
+            }
+            Console.WriteLine("o maior numero é: " + maior);
+            Console.WriteLine("A ordem crescente é: " + menor + " " + meio + " " + maior);
+            */
+   
             
+
+            //ex 19 (modificar o ex 18)
+
+
+            //ex 20
+            /*
+            Random random = new Random();
+            int numero = 0, vidas = 3, tentativa;
+            numero = random.Next(0, 10);
+            Console.WriteLine("Tente adivinhar o numero!");
+            tentativa = int.Parse(Console.ReadLine());
+            if (tentativa > numero)
+            {
+                Console.WriteLine("MENOS");
+            }
+            else if (tentativa < numero)
+            {
+                Console.WriteLine("MAIS");
+            }
+            else if (tentativa == numero)
+            {
+                Console.WriteLine("ACERTOU!");
+            }
+            */
         }  
     }
 }

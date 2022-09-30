@@ -1,0 +1,15 @@
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\lista_de_exercicios4.csproj.AssemblyReference.cache
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\lista_de_exercicios4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\lista_de_exercicios4.AssemblyInfoInputs.cache
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\lista_de_exercicios4.AssemblyInfo.cs
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\lista_de_exercicios4.csproj.CoreCompileInputs.cache
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\bin\Debug\net6.0\lista_de_exercicios4.exe
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\bin\Debug\net6.0\lista_de_exercicios4.deps.json
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\bin\Debug\net6.0\lista_de_exercicios4.runtimeconfig.json
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\bin\Debug\net6.0\lista_de_exercicios4.dll
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\bin\Debug\net6.0\lista_de_exercicios4.pdb
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\lista_de_exercicios4.dll
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\refint\lista_de_exercicios4.dll
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\lista_de_exercicios4.pdb
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\lista_de_exercicios4.genruntimeconfig.cache
+C:\Users\Dobat\source\repos\lista_de_exercicios4\lista_de_exercicios4\obj\Debug\net6.0\ref\lista_de_exercicios4.dll
