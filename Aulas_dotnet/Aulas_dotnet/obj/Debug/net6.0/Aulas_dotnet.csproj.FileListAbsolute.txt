@@ -1,0 +1,15 @@
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\bin\Debug\net6.0\Aulas_dotnet.exe
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\bin\Debug\net6.0\Aulas_dotnet.deps.json
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\bin\Debug\net6.0\Aulas_dotnet.runtimeconfig.json
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\bin\Debug\net6.0\Aulas_dotnet.dll
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\bin\Debug\net6.0\Aulas_dotnet.pdb
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\Aulas_dotnet.csproj.AssemblyReference.cache
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\Aulas_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\Aulas_dotnet.AssemblyInfoInputs.cache
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\Aulas_dotnet.AssemblyInfo.cs
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\Aulas_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\Aulas_dotnet.dll
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\refint\Aulas_dotnet.dll
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\Aulas_dotnet.pdb
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\Aulas_dotnet.genruntimeconfig.cache
+C:\Users\Dobat\source\repos\Aulas_dotnet\Aulas_dotnet\obj\Debug\net6.0\ref\Aulas_dotnet.dll
