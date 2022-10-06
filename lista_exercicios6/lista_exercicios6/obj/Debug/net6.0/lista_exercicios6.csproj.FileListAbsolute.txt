@@ -1,0 +1,15 @@
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\bin\Debug\net6.0\lista_exercicios6.exe
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\bin\Debug\net6.0\lista_exercicios6.deps.json
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\bin\Debug\net6.0\lista_exercicios6.runtimeconfig.json
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\bin\Debug\net6.0\lista_exercicios6.dll
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\bin\Debug\net6.0\lista_exercicios6.pdb
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\lista_exercicios6.csproj.AssemblyReference.cache
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\lista_exercicios6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\lista_exercicios6.AssemblyInfoInputs.cache
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\lista_exercicios6.AssemblyInfo.cs
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\lista_exercicios6.csproj.CoreCompileInputs.cache
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\lista_exercicios6.dll
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\refint\lista_exercicios6.dll
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\lista_exercicios6.pdb
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\lista_exercicios6.genruntimeconfig.cache
+C:\Users\Dobat\source\repos\lista_exercicios6\lista_exercicios6\obj\Debug\net6.0\ref\lista_exercicios6.dll
