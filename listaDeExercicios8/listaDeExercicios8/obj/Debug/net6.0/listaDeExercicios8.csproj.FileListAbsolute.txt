@@ -1,0 +1,15 @@
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\bin\Debug\net6.0\listaDeExercicios8.exe
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\bin\Debug\net6.0\listaDeExercicios8.deps.json
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\bin\Debug\net6.0\listaDeExercicios8.runtimeconfig.json
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\bin\Debug\net6.0\listaDeExercicios8.dll
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\bin\Debug\net6.0\listaDeExercicios8.pdb
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\listaDeExercicios8.csproj.AssemblyReference.cache
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\listaDeExercicios8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\listaDeExercicios8.AssemblyInfoInputs.cache
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\listaDeExercicios8.AssemblyInfo.cs
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\listaDeExercicios8.csproj.CoreCompileInputs.cache
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\listaDeExercicios8.dll
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\refint\listaDeExercicios8.dll
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\listaDeExercicios8.pdb
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\listaDeExercicios8.genruntimeconfig.cache
+C:\Users\Dobat\source\repos\listaDeExercicios8\listaDeExercicios8\obj\Debug\net6.0\ref\listaDeExercicios8.dll
