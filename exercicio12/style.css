@@ -1,0 +1,17 @@
+.index1{
+    background: url("stock.jpg");
+}
+
+body{
+    background-color: beige;
+    font-family: "Lucida Console", monospace, sans-serif;
+}
+table, td, th{
+    border-collapse: collapse;
+    border: 1px solid;
+    
+}
+th, td{
+    padding: 15px;
+    text-align: left;
+}
