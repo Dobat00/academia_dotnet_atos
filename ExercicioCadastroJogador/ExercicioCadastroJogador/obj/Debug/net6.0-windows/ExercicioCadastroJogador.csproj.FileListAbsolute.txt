@@ -1,0 +1,17 @@
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\bin\Debug\net6.0-windows\ExercicioCadastroJogador.exe
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\bin\Debug\net6.0-windows\ExercicioCadastroJogador.deps.json
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\bin\Debug\net6.0-windows\ExercicioCadastroJogador.runtimeconfig.json
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\bin\Debug\net6.0-windows\ExercicioCadastroJogador.dll
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\bin\Debug\net6.0-windows\ExercicioCadastroJogador.pdb
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.csproj.AssemblyReference.cache
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.Form1.resources
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.csproj.GenerateResource.cache
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.AssemblyInfoInputs.cache
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.AssemblyInfo.cs
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.csproj.CoreCompileInputs.cache
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.dll
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\refint\ExercicioCadastroJogador.dll
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.pdb
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ExercicioCadastroJogador.genruntimeconfig.cache
+C:\Users\Dobat\source\repos\ExercicioCadastroJogador\ExercicioCadastroJogador\obj\Debug\net6.0-windows\ref\ExercicioCadastroJogador.dll
