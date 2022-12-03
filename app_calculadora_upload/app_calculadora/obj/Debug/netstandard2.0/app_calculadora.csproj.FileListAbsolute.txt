@@ -1,0 +1,15 @@
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\bin\Debug\netstandard2.0\app_calculadora.deps.json
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\bin\Debug\netstandard2.0\app_calculadora.dll
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\bin\Debug\netstandard2.0\app_calculadora.pdb
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\app_calculadora.csproj.AssemblyReference.cache
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\app_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\app_calculadora.AssemblyInfoInputs.cache
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\app_calculadora.AssemblyInfo.cs
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\app_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\app_calculadora.dll
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\refint\app_calculadora.dll
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\app_calculadora.pdb
+C:\Users\Dobat\source\repos\app_calculadora\app_calculadora\app_calculadora\obj\Debug\netstandard2.0\ref\app_calculadora.dll
